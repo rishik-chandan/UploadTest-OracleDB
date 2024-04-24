@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/hibernate-entitymanager-5.6.14.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/javax.transaction-api-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/classmate-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/poi-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/hibernate-core-5.2.18.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/gson-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/antlr-complete-3.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/javassist-3.22.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/commons-codec-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/slf4j-simple-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/commons-compress-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/byte-buddy-1.10.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/jboss-logging-3.3.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/ojdbc8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/jackson-datatype-hibernate5-2.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/javax.persistence-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
